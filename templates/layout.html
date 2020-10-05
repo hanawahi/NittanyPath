@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{% block title %}{% endblock %}</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+	</head>
+	<body class="loggedin">
+    <!-- Page Header: using BootStrap and w3Schools, I was able to make this look nice! -->
+<div class="container">
+  <div class="jumbotron">
+    <h1 style="font-family:'Calibri Light'">NittanyPath Portal</h1>
+    <p style="font-family:'Calibri Light'">Welcome to Student Navigation.</p>
+  </div>
+    <nav class="navtop">
+			<div>
+                <a href="{{ url_for('home') }}"><i class="fas fa-home"></i>Home</a>
+				<a href="{{ url_for('profile') }}"><i class="fas fa-user-circle"></i>Student Information</a>
+				<a href="{{ url_for('forum') }}"><i class="fas fa-user-circle"></i>Forum</a>
+				<a href="{{ url_for('assignments') }}"><i class="fas fa-user-circle"></i>Assignments</a>
+				<a href="{{ url_for('logout') }}"><i class="fas fa-sign-out-alt"></i>Logout</a>
+			</div>
+		</nav>
+		<div class="content">
+			{% block content %}{% endblock %}
+		</div>
+</div>
+
+	</body>
+</html>

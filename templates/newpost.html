@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+
+{% block title %}Profile{% endblock %}
+
+{% block content %}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title></title>
+</head>
+
+     <!-- Begin FORM: This ensures that fields are filled appropriately before addition. -->
+    <form action="/newpost" id="newpost" method="POST">
+  Course ID (Example: CMPSC475): <input type="text" name="courseid" required class="form-control">
+   <br>
+    Enter post content here: <input type="text" name="newpost" required class="form-control">
+     <input type="submit" class="btn btn-primary">
+</form>
+<br>
+
+    <div class="msg">{{ msg }}</div>
+    <!--- This was for testing purposes:
+    <div class="msg">{{ result }}</div>
+                                            ---->
+
+{% endblock %}

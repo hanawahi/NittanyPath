@@ -1,0 +1,28 @@
+{% extends 'stafflayout.html' %}
+
+{% block title %}Profile{% endblock %}
+
+{% block content %}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title></title>
+</head>
+
+     <!-- Begin FORM: This ensures that fields are filled appropriately before addition. -->
+    <form action="/staffnewcomment" id="newcomment" method="POST">
+  Course ID (Example: CMPSC475): <input type="text" name="courseid" required class="form-control">
+   <br>
+  Post ID of Parent Post (Example: 25): <input type="text" name="postid" required class="form-control">
+   <br>
+    Enter comment content here: <input type="text" name="newcomment" required class="form-control">
+     <input type="submit" class="btn btn-primary">
+</form>
+<br>
+
+    <div class="msg">{{ msg }}</div>
+    <div class="msg">{{ result }}</div>
+
+{% endblock %}

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1847f845-f2ad-4362-b228-4abf3a52f135" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="database" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YECdQn1rsPYNco9Dmwf2695jQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hanaw\PycharmProjects\HanaWahi\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hanaw\PycharmProjects\HanaWahi" />
+      <recent name="C:\Users\hanaw\PycharmProjects\HanaWahi\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (app.py)">
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="HanaWahi" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HanaWahi" type="Python.FlaskServer">
+      <module name="HanaWahi" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@ff17056" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1847f845-f2ad-4362-b228-4abf3a52f135" name="Default Changelist" comment="" />
+      <created>1582498455275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582498455275</updated>
+      <workItem from="1582498460712" duration="25311000" />
+      <workItem from="1583635716037" duration="1958000" />
+      <workItem from="1583640903561" duration="613000" />
+      <workItem from="1583662712272" duration="728000" />
+      <workItem from="1583665200646" duration="528000" />
+      <workItem from="1584834793019" duration="42733000" />
+      <workItem from="1585000769637" duration="2043000" />
+      <workItem from="1586132875996" duration="21226000" />
+      <workItem from="1586181793734" duration="15691000" />
+      <workItem from="1586207290436" duration="2742000" />
+      <workItem from="1587682908224" duration="7741000" />
+      <workItem from="1587789026045" duration="79315000" />
+      <workItem from="1588030271184" duration="1669000" />
+      <workItem from="1588213268251" duration="1345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="120" key="#SQL_Dialects" timestamp="1586197810104">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="120" key="#SQL_Dialects/0.0.1440.920@0.0.1440.920" timestamp="1586197810104" />
+    <state x="313" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582499507498">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1582499507498" />
+    <state x="860" y="191" key="FileChooserDialogImpl" timestamp="1586143696268">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="860" y="191" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1586143696268" />
+    <state width="1397" height="185" key="GridCell.Tab.0.bottom" timestamp="1588215241994">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="185" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1588215241994" />
+    <state width="1397" height="185" key="GridCell.Tab.0.center" timestamp="1588215241994">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="185" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1588215241994" />
+    <state width="1397" height="185" key="GridCell.Tab.0.left" timestamp="1588215241994">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="185" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1588215241994" />
+    <state width="1397" height="185" key="GridCell.Tab.0.right" timestamp="1588215241994">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="185" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1588215241994" />
+    <state width="198" height="457" key="HiddenNamespacesPopup" timestamp="1582499289211">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="198" height="457" key="HiddenNamespacesPopup/0.0.1440.920@0.0.1440.920" timestamp="1582499289211" />
+    <state x="165" y="209" width="540" height="524" key="StructurePopup" timestamp="1586168352592">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="165" y="209" width="540" height="524" key="StructurePopup/0.0.1440.920@0.0.1440.920" timestamp="1586168352592" />
+    <state x="261" y="352" width="322" height="233" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1586208274098">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="261" y="352" width="322" height="233" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1440.920@0.0.1440.920" timestamp="1586208274098" />
+    <state x="325" y="19" width="838" height="877" key="com.intellij.database.dbimport.ImportDialog" timestamp="1586151119239">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="325" y="19" width="838" height="877" key="com.intellij.database.dbimport.ImportDialog/0.0.1440.920@0.0.1440.920" timestamp="1586151119239" />
+    <state x="451" y="267" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1588000279407">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="451" y="267" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1440.920@0.0.1440.920" timestamp="1588000279407" />
+    <state x="515" y="322" width="404" height="347" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1586208322399">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="515" y="322" width="404" height="347" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1440.920@0.0.1440.920" timestamp="1586208322399" />
+    <state x="123" y="0" width="497" height="920" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1588021390209">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="123" y="0" width="497" height="920" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1440.920@0.0.1440.920" timestamp="1588021390209" />
+    <state x="421" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1588213272163">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="421" y="286" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1588213272163" />
+    <state x="354" y="103" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588006447204">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="354" y="103" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.920@0.0.1440.920" timestamp="1588006447204" />
+    <state x="383" y="195" key="search.everywhere.popup" timestamp="1587711010690">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1587711010690" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HanaWahi$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1588213303900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HanaWahi$HanaWahi.coverage" NAME="HanaWahi Coverage Results" MODIFIED="1582599401367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
